@@ -1,5 +1,2 @@
 Adding some text
 This is the second commit
-This is the testing commit
-Adding content from Github
-Sample code
