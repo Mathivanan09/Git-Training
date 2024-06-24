@@ -3,4 +3,4 @@ This is the second commit
 Sample code
 
 ====Git rm====
-git rm --ignore-unmatch --cached -> need to remove the staged commits (git restore --staged [path]) and re-commit the existing/working tree changes
+git rm --ignore-unmatch --cached -> need to remove the staged commits (git restore --staged [path]) and re-commit the existing/working tree changes.
