@@ -4,3 +4,7 @@ Sample code
 
 ====Git rm====
 git rm --ignore-unmatch --cached -> need to remove the staged commits (git restore --staged [path]) and re-commit the existing/working tree changes.
+
+====Git Diff====
+Adding changes to test the git diff command
+For now, I just let it to be and will be correct it.
