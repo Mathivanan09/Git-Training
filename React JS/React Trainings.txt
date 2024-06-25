@@ -8,3 +8,24 @@ git rm --ignore-unmatch --cached -> need to remove the staged commits (git resto
 ====Git Diff====
 Adding changes to test the git diff command
 For now, I just let it to be and will be correct it.
+
+====Keywords======
+Tip:
+It is just a latest commit in the respective branch.
+If the branch has A -> B -> C then C is the tip of this branch.
+
+Origin:
+The origin is reference the current branch remote repository
+
+Fast-forward merge:
+This is one of the way of commit in github. It mainly happens when we merge the two branches and both of them have the same code.
+
+Three-way merge:
+
+HEAD:
+It represents the last commit of the current branch.
+
+Merge-base:
+The most common commit between the two branches as the merge base.
+
+Tag:
