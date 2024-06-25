@@ -33,3 +33,5 @@ Tag:
 Squash:
 We can merge the one branch code onto another branch as a normal commit instead of Merge commit. We can hide the merge commit by using this keyword when merging branch.
 
+Git Strategy:
+This is the testing of -s ours option
