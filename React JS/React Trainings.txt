@@ -35,3 +35,6 @@ We can merge the one branch code onto another branch as a normal commit instead 
 
 Git Strategy:
 This is the testing of -s ours option
+
+--no-commit
+There is a option that we can wait the merge commit for some time for reviewing the changes and can approve the changes to merge the branch by commiting the changes.
