@@ -29,3 +29,7 @@ Merge-base:
 The most common commit between the two branches as the merge base.
 
 Tag:
+
+Squash:
+We can merge the one branch code onto another branch as a normal commit instead of Merge commit. We can hide the merge commit by using this keyword when merging branch.
+
